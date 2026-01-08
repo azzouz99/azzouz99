@@ -88,7 +88,7 @@ I currently work at **Banque Tuniso-Libyenne (BTL)**, developing large-scale wor
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/abderrahmenbenazzouz](https://www.linkedin.com/in/benazzouz-abderrahmen-56aa5b266/)" target="_blank">
+  <a href="https://www.linkedin.com/in/benazzouz-abderrahmen-56aa5b266" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:benazzouzabderrahmen7@gmail.com">
